@@ -15,7 +15,7 @@ Features
     API Token Support: Prompt for a Wpscan API Token before executing the wpscan command.
     Loading Bar: Displays a loading bar to indicate the progress of the scanning process.
 
-Usage
+
     Usage
 
     Clone the repository: git clone https://github.com/your-username/lazy-lady.git
