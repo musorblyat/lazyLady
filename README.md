@@ -3,7 +3,7 @@
 Lazy Lady Security Scanner 
 
 
-Lazy Lady is a simple security scanner script written in Python. It automates the process of gathering information and performing various security scans on a target. It utilizes popular tools such as <bold>whois, nslookup, nmap, nikto, gobuster, wpscan, and xsstrike to provide comprehensive security assessments.</bold>
+Lazy Lady is a simple security scanner script written in Python. It automates the process of gathering information and performing various security scans on a target. It utilizes popular tools such as whois, nslookup, nmap, nikto, gobuster, wpscan, and xsstrike to provide comprehensive security assessments.
 (you can change some parameters for yourself)👀
 
 Features
