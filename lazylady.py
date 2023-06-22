@@ -125,7 +125,7 @@ tools = [
     {"name": "nmap", "output_file": "nmap.txt",
      "command": f"nmap -A -O -sV {target}" if scan_mode == "2" else f"nmap -sC -sV {target}"},
     {"name": "nikto", "output_file": "nikto.txt", "command": f"nikto -h {target}"},
-    {"name": "gobuster", "output_file": "gobuster.txt", "command": f"gobuster dir -u {target} -w /wl/dsplusleakypaths.txt"},
+    {"name": "gobuster", "output_file": "gobuster.txt", "command": f"gobuster dir -u {target} -w dsplusleakypaths.txt"},
     {"name": "wpscan", "output_file": "wpscan.txt", "command": ""},
     {"name": "xsstrike", "output_file": "xsstrike.txt", "command": f"xsstrike -u {target}"},
 ]
